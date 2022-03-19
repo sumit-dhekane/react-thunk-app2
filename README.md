@@ -1,6 +1,5 @@
 GIT FETCH VS PULL
-
-
+git fetch and merge is same as git pull
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
