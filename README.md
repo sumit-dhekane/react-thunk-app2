@@ -1,5 +1,5 @@
 git chages with fetch
-
+brach name staging1
 
 GIT FETCH VS PULL
 git fetch and merge is same as git pull
