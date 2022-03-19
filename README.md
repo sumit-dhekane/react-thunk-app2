@@ -1,3 +1,6 @@
+git chages with fetch
+
+
 GIT FETCH VS PULL
 git fetch and merge is same as git pull
 # Getting Started with Create React App
